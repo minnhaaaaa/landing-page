@@ -7,7 +7,7 @@ The project holds a special place for me. In a world where everyone reaches for 
 Every layout, every spacing decision, every flexbox property was figured out through my own thinking and problem solving. And when it finally came together, that feeling was mine alone.
 Safe to say that I am incredibly proud of this one!
 
-## What I Learned
+## What I Learnt
 * Structuring semantic HTML for a multi-section page
 * Using CSS Flexbox for layout and alignment
 * Applying CSS Box Model techniques
