@@ -18,7 +18,7 @@ Safe to say that I am incredibly proud of this one!
 * HTML5
 * CSS3 (Flexbox)
 
-## Notes
+## Notes and Future Plans
 The page uses placeholder text and images as this is a layout and styling exercise rather than a real product site.
 ## Acknowledgements
 Project assignment by The Odin Project.
