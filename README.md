@@ -22,3 +22,5 @@ Safe to say that I am incredibly proud of this one!
 The page uses placeholder text and images as this is a layout and styling exercise rather than a real product site.
 ## Acknowledgements
 Project assignment by The Odin Project.
+
+Currently in the process of making it responsive using Javscript.
