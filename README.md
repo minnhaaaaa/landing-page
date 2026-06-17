@@ -23,4 +23,4 @@ The page uses placeholder text and images as this is a layout and styling exerci
 ## Acknowledgements
 Project assignment by The Odin Project.
 
-Currently in the process of making it responsive using Javscript.
+Currently in the process of creating a responsive design using Javscript. Looking to improve skills in NextJS and React
